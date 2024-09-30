@@ -1,1 +1,1 @@
-![Screenshot of the project](https://github.com/ansgeoviz/dummy_data/raw/main/heatmap_CTNT.png)
+![Screenshot of the project](https://raw.githubusercontent.com/absgeoviz/dummy_data/main/heatmap_WARA.png)
